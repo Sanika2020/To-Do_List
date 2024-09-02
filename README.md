@@ -36,7 +36,7 @@ Step 4: Smart contract verifies completion and releases the reward.
 Step 5: User receives cryptocurrency in their wallet. 
 
 ## Technologies Used:
-- ☓ 
+- HTML
 - CSS
 - JavaScript
 
