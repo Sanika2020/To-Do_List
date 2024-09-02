@@ -18,7 +18,7 @@ function renderTasks() {
     const taskList = document.getElementById('taskList');
     taskList.innerHTML = '';
     tasks.forEach((task, index) => {
-        taskList.innerHTML += `<li>${task} <button onclick="completeTask(${index})">Complete</button></li>`;
+        taskList.innerHTML += `<li>${task} <button id="compBtn" onclick="completeTask(${index})">Complete</button></li>`;
     });
 }
 
