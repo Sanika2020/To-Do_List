@@ -1,14 +1,16 @@
 ### To-Do_List
 
               TABLE OF CONTENTS
- _____________________________________________________________
-| SL No.| INDEX                                               |     
-|    1. |  Problem Statement                                  |           
-|    2. |  Solution                                           |
-|    3. |   Goal                                              |
-|    4. |  Unique Features for better User Experience (UX)    |
-|    5. | WorkFlow of the Web-App                             |
-|_______|_____________________________________________________|
+| Section | Description |
+|---------|-------------|
+| [Problem Statement](#problem_statement) | Overview of the project and its purpose. |
+| [Solutions](#solutions) | Key functionalities of the project. |
+| [Goal](#goal) | Instructions on how to use the project. |
+| [Unique Features](#unique_features) | Guidelines for contributing to the project. |
+| [WorkFlow](#workflow) | Information on how to reach the project maintainers. |
+| [Technologies Used](#technologies-used) | List of technologies, libraries, and tools used. |
+| [Acknowledgments](#acknowledgments) | Credits and thanks to contributors or resources. |
+
 
 ## Problem Statement:
 To build a to do list app where tasks are stored on the blockchain and  each task is associated with a token and users can earn rewards in crypto.
@@ -33,5 +35,10 @@ Step 3: User completes the task and marks it as done.
 Step 4: Smart contract verifies completion and releases the reward.
 Step 5: User receives cryptocurrency in their wallet. 
 
+## Technologies Used:
+- ☓ 
+- CSS
+- JavaScript
 
-
+## Acknowledgement:
+We would like to thank our mentors from Diamante, for helping and guiding us thoughout the duration of the hackathon. We also express our sincere gratitude to the organisers,Diamante x </DevBraze> and ActualOne for providing us with a platform to showcase our talents. We would like to thank our teammates for their support and energy during the hackathon. 
